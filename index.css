@@ -98,3 +98,16 @@ form button {
     font-size: 1.625rem;
     padding-top: 1rem;
 }
+.third__section{
+    background-color: black;
+    padding: 4rem 4rem;
+    color: #ffff;
+    border-bottom: 5px solid grey;
+ 
+}
+.third__section h2{
+    font-size: 3.125rem;
+}
+.third__section p{
+    font-size: 1.625rem;
+}
