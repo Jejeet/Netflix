@@ -76,26 +76,25 @@ form button {
     text-transform: capitalize;
     font-size: 1rem;
 }
-.first__section{
+.first__section, .second__section{
     background-color: black;
     padding: 0 4rem;
     display: flex;
     justify-content: space-between;
+    border-bottom: 5px solid grey;
    
 }
-.first__sectionContent {
+.first__sectionContent, .second__sectionContent {
     color: #ffff;
-   margin-top: 10rem;
-    font-size: ;
- 
+ margin-top: 10rem;
 }
 /* .first__sectionWrapper{
     margin-top: 2rem;
 } */
-.first__sectionContent h2{
+.first__sectionContent h2, .second__section{
     font-size: 3.125rem;
 }
-.first__sectionContent p{
+.first__sectionContent p,.second__section p{
     font-size: 1.625rem;
     padding-top: 1rem;
 }
