@@ -76,7 +76,7 @@ form button {
     text-transform: capitalize;
     font-size: 1rem;
 }
-.first__section, .second__section{
+.first__section, .second__section,.fourth__section{
     background-color: black;
     padding: 0 4rem;
     display: flex;
@@ -84,17 +84,17 @@ form button {
     border-bottom: 5px solid grey;
    
 }
-.first__sectionContent, .second__sectionContent {
+.first__sectionContent, .second__sectionContent,.fourth__sectionContent{
     color: #ffff;
  margin-top: 10rem;
 }
 /* .first__sectionWrapper{
     margin-top: 2rem;
 } */
-.first__sectionContent h2, .second__section{
+.first__sectionContent h2, .second__sectionContent h2, .fourth__sectionContent h2{
     font-size: 3.125rem;
 }
-.first__sectionContent p,.second__section p{
+.first__sectionContent p,.second__sectionContent p,.fourth__sectionContent p {
     font-size: 1.625rem;
     padding-top: 1rem;
 }
